@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\mayank.bijay\\Desktop\\inventory/tmp/model.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\mayank.bijay\\Desktop\\inventory/tmp/model.ckpt"
